@@ -8,4 +8,4 @@ var month_of_birth = 9;
 
 console.log(age + fav_num / day_of_birth * month_of_birth);
 
-console.log((age + fav_num) / day_of_birth * month_of_birth);node
+console.log((age + fav_num) / day_of_birth * month_of_birth);
