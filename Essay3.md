@@ -3,11 +3,12 @@ layout: essay
 type: essay
 title:  E3 Preparing for WOD's
 # All dates must be YYYY-MM-DD format!
-date: 2021-10-6
+date: 2021-10-06
 labels:
   - Blog
   - Answers
 ---
+
 ## Experience of Invoice 1
 Through experience I felt like I did pretty well following the steps. I had a good grasp on understanding what to do. I think the only time I would fumble is when I actually forgot how to write a command. Other than that it was a pretty smooth experience as long as I have a table that I can just copy and paste from. Oh, and the code that I fumbled was actually me missing a $ sign infront of price.
 
