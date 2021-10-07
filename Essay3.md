@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title:  UI Basics Technical Essay
+title:  E3 Preparing for WOD's
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-6
 labels:
