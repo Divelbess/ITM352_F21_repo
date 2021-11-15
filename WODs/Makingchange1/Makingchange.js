@@ -1,5 +1,5 @@
 //amount total
-amount = 37;
+amount = 1.75;
 //total quarters
 quarters = parseInt(amount/.25);
 //total dimes + leftover
