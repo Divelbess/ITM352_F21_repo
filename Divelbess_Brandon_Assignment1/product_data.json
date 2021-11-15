@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Call of Duty",
+        "price": 990.00,
+        "image": "CallofDuty.jpg",
+        "quantity_available": 4
+    },
+    {
+        "title": "Diablo 3",
+        "price": 240.00,
+        "image": "Diablo3.jpg",
+        "quantity_available": 5
+    },
+    {
+        "title": "Fortnite",
+        "price": 240.00,
+        "image": "Fortnite.jpeg",
+        "quantity_available": 5
+    },
+        {
+        "title": "Police Simulator",
+        "price": 240.00,
+        "image": "PoliceSimulator3.jpg",
+        "quantity_available": 5
+    },
+            {
+        "title": "The Sims",
+        "price": 240.00,
+        "image": "TheSims.png",
+        "quantity_available": 5
+    }
+]
