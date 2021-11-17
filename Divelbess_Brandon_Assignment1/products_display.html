@@ -1,0 +1,48 @@
+<script src="./products_data.json"></script>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Game Store</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Yuji+Mai&display=swap" rel="stylesheet">
+
+    <link href="products-style.css" rel="stylesheet">
+</head>
+
+<body>
+    
+    <header>
+        <h1>Brandon's Video Game Store</h1>
+    </header>        
+    <form action ="./invoice.html" method ="GET">
+    <div>
+        <main>
+<script>
+    for (i = 0; i < products.length; i++){
+    document.write(`
+            <section class="item">
+                <h2>${products[i].title}</h2>
+                <p>$${products[i].price}</p>
+                <label>Quantity</label>
+                <input type="text" placeholder ="0">
+                <img src="./Images/${products[i].image}">
+            </section>
+            `)
+        }
+</script>
+        </main>
+    </div>
+    <input type="submit" value="Purchase!"
+</form>
+    <footer>
+        <h1>
+            Your One Stop For Video Games!
+        </h1>
+    </footer>
+</body>
+
+</html>
