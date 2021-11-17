@@ -1,0 +1,21 @@
+[
+    { "title" :  "Call of Duty",
+     "price" :  40.00,
+     "image" :  "CallofDuty.jpg"},
+
+     { "title" :  "Diablo 3",
+     "price" :  75.00,
+     "image" :  "Diablo3.jpg"},
+
+     { "title" :  "Fortnite",
+     "price" :  35.00,
+     "image" :  "Fortnite.jpeg"},
+
+     { "title" :  "Police Simulator",
+     "price" :  45.00,
+     "image" :  "PoliceSimulator.jpg"},
+
+     { "title" :  "The Sims",
+     "price" :  10.00,
+     "image" :  "TheSims.png"}
+     ]
